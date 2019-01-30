@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "img/apple_5.jpg",
+    "name": "IPhone 5",
+    "description": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis cumque deserunt doloremque enim error, facilis fugiat fugit incidunt molestiae nisi nostrum pariatur possimus quaerat repellat sint vitae voluptate voluptates voluptatum.\n",
+    "price": "4000"
+  },
+  {
+    "id": 2,
+    "image": "img/iphone_6.jpg",
+    "name": "IPhone 6",
+    "description": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis cumque deserunt doloremque enim error, facilis fugiat fugit incidunt molestiae nisi nostrum pariatur possimus quaerat repellat sint vitae voluptate voluptates voluptatum.\n",
+    "price": "5000"
+  },
+  {
+    "id": 3,
+    "image": "img/apple_7.jpg",
+    "name": "IPhone 7",
+    "description": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis cumque deserunt doloremque enim error, facilis fugiat fugit incidunt molestiae nisi nostrum pariatur possimus quaerat repellat sint vitae voluptate voluptates voluptatum.\n",
+    "price": "6000"
+  },
+  {
+    "id": 4,
+    "image": "img/apple_x.jpg",
+    "name": "IPhone X",
+    "description": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis cumque deserunt doloremque enim error, facilis fugiat fugit incidunt molestiae nisi nostrum pariatur possimus quaerat repellat sint vitae voluptate voluptates voluptatum.\n",
+    "price": "7000"
+  },
+  {
+    "id": 5,
+    "image": "img/apple_x.jpg",
+    "name": "Samsung Galaxy 1",
+    "description": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis cumque deserunt doloremque enim error, facilis fugiat fugit incidunt molestiae nisi nostrum pariatur possimus quaerat repellat sint vitae voluptate voluptates voluptatum.\n",
+    "price": "3000"
+  },
+  {
+    "id": 6,
+    "image": "img/apple_x.jpg",
+    "name": "Samsung Galaxy 2",
+    "description": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis cumque deserunt doloremque enim error, facilis fugiat fugit incidunt molestiae nisi nostrum pariatur possimus quaerat repellat sint vitae voluptate voluptates voluptatum.\n",
+    "price": "400"
+  }
+]
